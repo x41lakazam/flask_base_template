@@ -1,0 +1,5 @@
+{% extends "base.jin" %}
+
+{% block content %}
+    <h1>Vous ne pouvez pas acceder a cette page</h1>
+{% endblock %}
